@@ -7,7 +7,7 @@
   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbacchi&layout=compact&langs_count=16&theme=gruvbox"/>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianbacchi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
- 
+</br>
 ## Skills
 <div style="display: inline_block"><br>
  <img height="40" align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -20,7 +20,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
+</br>  
 </br>
 
 ## Contact 
