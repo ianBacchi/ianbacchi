@@ -17,7 +17,7 @@
  <img height="40" align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="Assembly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nasm/nasm-original.svg">
- &nbsp;&nbsp;&nbsp;&B;
+ &nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img height="40" align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
