@@ -4,8 +4,8 @@
 
 <div>
  <a href="https://github.com/ianBacchi">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbacchi&layout=compact&langs_count=16&theme=dracula"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianbacchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianbacchi&layout=compact&langs_count=16&theme=radical"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianbacchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
 ## Skills
