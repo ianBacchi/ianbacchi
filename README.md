@@ -45,7 +45,7 @@ Engenheiro de Computação em formação pela UTFPR e Desenvolvedor Front-end. A
   <a href="https://www.linkedin.com/in/ian-bacchi-nascimento-466327222" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:ianbacchi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
