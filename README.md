@@ -35,7 +35,7 @@ Engenheiro de Computação em formação pela UTFPR e Desenvolvedor Front-end. A
 ### 🐍 Atividade no GitHub
 
 <div align="center">
- ![Snake animation](https://raw.githubusercontent.com/ianBacchi/ianBacchi/output/github-contribution-grid-snake.svg)
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ianbacchi/ianbacchi/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
