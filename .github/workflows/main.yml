@@ -27,7 +27,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Generate growth snake
-        run: python scripts/generate_growth_snake.py
+        run: python3 scripts/generate_growth_snake.py
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
