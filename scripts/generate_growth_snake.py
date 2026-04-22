@@ -2,6 +2,7 @@ import math
 import os
 import subprocess
 from pathlib import Path
+from typing import List, Tuple
 
 
 def get_commit_count() -> int:
@@ -16,7 +17,7 @@ def get_commit_count() -> int:
         return 1
 
 
-def build_points(segments: int, width: int, height: int) -> list[tuple[float, float]]:
+def build_points(segments: int, width: int, height: int) -> List[Tuple[float, float]]:
     """Build a wave-like snake body with N segments."""
     left_pad = 40
     right_pad = 40
@@ -24,7 +25,7 @@ def build_points(segments: int, width: int, height: int) -> list[tuple[float, fl
     base_y = height * 0.55
     amp = min(28, max(12, height * 0.14))
 
-    points: list[tuple[float, float]] = []
+    points: List[Tuple[float, float]] = []
     for i in range(segments):
         t = i / max(1, segments - 1)
         x = left_pad + usable_w * t
@@ -45,7 +46,7 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     out_file = out_dir / "growth-snake.svg"
 
-    parts: list[str] = []
+    parts: List[str] = []
     parts.append(
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Growth snake">'
     )
