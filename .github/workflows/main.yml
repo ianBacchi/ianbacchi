@@ -16,6 +16,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       # Snake Animation
       - uses: Platane/snk@v3
         with:
@@ -23,6 +25,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate growth snake
+        run: python scripts/generate_growth_snake.py
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
