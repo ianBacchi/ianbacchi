@@ -40,8 +40,6 @@ Engenheiro de Computação em formação pela UTFPR e Desenvolvedor Front-end. A
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ianBacchi/ianbacchi/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/ianBacchi/ianbacchi/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br/>
-  <img alt="Growth snake" src="https://raw.githubusercontent.com/ianBacchi/ianbacchi/output/growth-snake.svg" />
 </div>
 
 ---

@@ -18,9 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate growth snake
-        run: python3 scripts/generate_growth_snake.py
-
       # Snake Animation
       - uses: Platane/snk@v3
         with:
